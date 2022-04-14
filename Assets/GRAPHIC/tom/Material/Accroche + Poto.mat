@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Poto
+  m_Name: Accroche + Poto
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: _METALLICSPECGLOSSMAP _NORMALMAP _OCCLUSIONMAP
   m_LightmapFlags: 4
@@ -34,11 +34,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 6ca6a2457dfdb0c4a9c36bd7ce3c279e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 969e4dffc3dd9a440abf1e80846ba576, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 4906bb48e5f1b374e95e4abc3bc89014, type: 3}
+        m_Texture: {fileID: 2800000, guid: e01303c01f7943d4b910d3c88cfec9f6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -58,15 +58,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 6ca6a2457dfdb0c4a9c36bd7ce3c279e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 969e4dffc3dd9a440abf1e80846ba576, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 4596615d97c9bef42bcf2fefb261167e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 51a16ee2edf864542a949509d4b2a8bb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: ab33a99061bca3146b73b4df65d16ad0, type: 3}
+        m_Texture: {fileID: 2800000, guid: f470013cce634e34dbc7d41ac41e2092, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
